@@ -50,4 +50,4 @@ Application developed by:
 
 ## License
 
-This project is under ``MIT License`` License - Cf. file [LICENSE.md](LICENSE.md) for any further details.
+This project is under ``MIT License`` License - Cf. file LICENSE.md for any further details.
