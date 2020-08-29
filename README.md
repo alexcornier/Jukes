@@ -11,7 +11,7 @@ For this, many probabilistic models vary according to the parameters used to des
 ## To start
 
 This code was developed using Python with few common libraries like MathPlotLib.
-A good start is reading first the document **[jukes.pdf](jukes.pdf)** provided in this repository.
+A good start is reading first the document **[Jukes.pdf](Jukes.pdf)** provided in this repository.
 
 ### Requirements
 
